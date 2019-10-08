@@ -1,5 +1,6 @@
 package util
 
+//TransformPrefs 转换人员和物品
 func TransformPrefs(in map[string]map[string]float32) (out map[string]map[string]float32) {
 	out = make(map[string]map[string]float32)
 	for person, items := range in {
