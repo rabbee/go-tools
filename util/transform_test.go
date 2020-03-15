@@ -1,8 +1,9 @@
 package util_test
 
 import (
-	"github.com/rabbee/rlib/util"
 	"testing"
+
+	"github.com/rabbee/rlib/util"
 )
 
 func TestTransformPrefs(t *testing.T) {

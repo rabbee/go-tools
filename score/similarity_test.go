@@ -1,8 +1,9 @@
 package score_test
 
 import (
-	"github.com/rabbee/rlib/score"
 	"testing"
+
+	"github.com/rabbee/rlib/score"
 )
 
 var (
